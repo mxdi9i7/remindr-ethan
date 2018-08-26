@@ -8,8 +8,8 @@ import Login from './components/Login.js';
 import Signup from './components/Signup.js';
 
 class App extends Component {
-  render() {
-    return (
+	render() {
+		return (
       <Router>
 				<div>
 					<Route exact path="/" component={Home} />

@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 
 class Login extends Component {
-    componentDidMount() {
+  componentDidMount() {
        
-    }
-    render() {
-        return (
-            <div>
-                Login
-            </div>
-        );
-    }
+  }
+  render() {
+  	return (
+      <div>
+        Login
+      </div>
+    );
+  }
 }
 
 export default Login;
